@@ -15,4 +15,4 @@
 ### Extracting Product Ratings and Reviews
 ![amazon-3](https://github.com/devallasaitej/WebScrapers/assets/64268620/ed71d12a-f720-4256-a851-9cf7259a2e6e)
 
-![amazon-2](https://github.com/devallasaitej/WebScrapers/assets/64268620/d78b4cfe-6d09-4ec8-a0e5-03c46cde1e40)
+<img width="884" alt="Screenshot 2024-03-12 at 11 10 21 AM" src="https://github.com/devallasaitej/WebScrapers/assets/64268620/24b623df-8334-44cc-9e6f-05b770c4cc28">
