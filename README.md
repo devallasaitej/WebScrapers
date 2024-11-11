@@ -1,6 +1,6 @@
 # Web Scraping using Selenium & Beautiful Soup
 ## Overview
-1. Web scraping Amazon's Bestselling books information like Title, Author, Price, Ratings and Top Reviews using Beautiful Soup HTML parser & Browser automation.
+1. Web scraping Amazon's Bestselling books information including Title, Author, Price, Ratings and Top Reviews using Beautiful Soup HTML parser & Browser automation.
 2. Scrpaing BestBuy Product reviews and ratings without using Parsers or NumPy/Pandas libraries
 ### Input URL of web page
 ![image](https://github.com/devallasaitej/WebScrapers/assets/64268620/93edb284-fb71-4522-8dfa-c926a78dac9d)
